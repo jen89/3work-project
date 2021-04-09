@@ -126,7 +126,7 @@ a {
 }
 
 .top-info__list li::before {
-   background-image: url(img/list-icon.png);
+   background-image: url(../img/list-icon.png);
    content: "";
    width: 13px;
    height: 13px;
